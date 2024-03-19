@@ -15,6 +15,12 @@
 https://play.google.com/store/apps/details?id=com.edutubers.flutter&pcampaignid=web_share
 <h3 align="left">Turismo Rosario de Lerma:</h3>
 https://play.google.com/store/apps/detailsid=com.lucianogutierrez.turismorosariodelerma&pcampaignid=web_share
+<h3 align="left">Eduniverse Medicina:</h3>
+https://play.google.com/store/apps/details?id=com.eduniverse.medicina&pcampaignid=web_share
+<h3 align="left">LG: InvestigacionesCientificas</h3>
+https://play.google.com/store/apps/details?id=com.autoditac.lginvestigacionescientificas&pcampaignid=web_share
+<h3 align="left">Subtivios</h3>
+https://play.google.com/store/apps/details?id=com.autoditac.subtivios&pcampaignid=web_share
 
 
 
