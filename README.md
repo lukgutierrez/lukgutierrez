@@ -41,9 +41,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lukgutierrez&show_icons=true&theme=tokyonight&hide_border=true" alt="LUKGTZ Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukgutierrez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/lukgutierrez">
+    <img src="https://github-readme-stats.vercel.app/api?username=lukgutierrez&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lukgutierrez">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukgutierrez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
