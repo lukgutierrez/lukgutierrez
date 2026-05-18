@@ -1,24 +1,49 @@
 <h1 align="center">Hi 👋, I'm Luciano Gutierrez</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Android Software Engineer | Flutter | Cybersecurity & OSINT</h3>
 
-- 📫 How to reach me **lucianogutierrezagustin@gmail.com**
-
-<p align="left">
+<p align="center">
+  <a href="mailto:lucianogutierrezagustin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="TU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<h3 align="left">PUBLIC APLICATION IN THE PLAY STORE:🖥️</h3>
-<h3 align="left">Edutuber:📱</h3>
-https://play.google.com/store/apps/details?id=com.edutubers.flutter&pcampaignid=web_share
-<h3 align="left">Turismo Rosario de Lerma:📱</h3>
-https://play.google.com/store/apps/detailsid=com.lucianogutierrez.turismorosariodelerma&pcampaignid=web_share
-<h3 align="left">Eduniverse Medicina:📱</h3>
-https://play.google.com/store/apps/details?id=com.eduniverse.medicina&pcampaignid=web_share
-<h3 align="left">LG: InvestigacionesCientificas📱</h3>
-https://play.google.com/store/apps/details?id=com.autoditac.lginvestigacionescientificas&pcampaignid=web_share
-<h3 align="left">Subtivios📱</h3>
-https://play.google.com/store/apps/details?id=com.autoditac.subtivios&pcampaignid=web_share
+---
 
+### 👨‍💻 About Me
+
+- 📱 Specializing in **Mobile Development** (Android Native & Flutter).
+- 🛡️ Passionate about **Cybersecurity and OSINT** investigations.
+- 💡 I love building scalable applications and continuously learning new technologies.
+- 💬 Ask me about **Kotlin, Dart, or Mobile Architecture**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Mobile Development** ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend & Databases** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Design** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUKGTZ&show_icons=true&theme=tokyonight&hide_border=true" alt="LUKGTZ Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUKGTZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 
